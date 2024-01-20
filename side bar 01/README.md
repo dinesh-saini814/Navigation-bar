@@ -16,3 +16,10 @@ To use this side navbar in your project, follow these steps:
 4. Customize the styles and functionality as per your requirements.
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
+
+## Preview Image
+
+Here is a preview of the side navbar:
+
+![Preview Image](/side%20bar%2001//images/preview-image_1.png)
+![Preview Image](/side%20bar%2001//images/preview-image_2.png)
